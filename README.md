@@ -4,7 +4,7 @@ My personal portfolio website — plain HTML, CSS, and JS, no build tools.
 
 Preview
 
-**Live:** https://jahanad-pr.github.io/Portfolio-jahanad/
+**Live:** https://jahanad-pr.github.io
 
 ## Run Locally
 
